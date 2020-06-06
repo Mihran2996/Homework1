@@ -1,0 +1,98 @@
+body{
+    background-image: url(../img/b_body.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+}
+.main{
+    width: 1158px;
+    height: 1004px;
+    margin-left:100px;
+    margin-bottom: 20px;
+    background-image: url("../img/b_coffee.jpg");
+    margin-top:-6px;
+}
+.contains{
+    width: 915px;
+    margin-left: 131px;
+}
+.btn{
+    margin-top:2px;
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+}
+.folio{
+display: flex;
+    margin-top:20px;
+}
+.folio>.div1{
+    margin-left:20px;
+    overflow: hidden;
+}
+.img{
+    margin-top:15px;
+    margin-left:15px;
+}
+.image{
+    margin-left:15px;
+    margin-top:20px;
+}
+.folio>.div2{
+    margin-left:60px;
+}
+.ol{
+    list-style-type: none;
+    margin-left:-13px;
+}
+.ul{
+    list-style-type: none;
+}
+.the{
+    width: 520px;
+}
+.the{
+    display: flex;
+    justify-content: space-around;
+    margin-left:30px;
+}
+.the>div{
+    color: blue;
+}
+.the>div>p{
+    margin-left: 15px;
+}
+.end{
+    width: 260px;
+    margin-left:50px;
+}
+.theEnd{
+    display: flex;
+    margin-top: -10px;
+}
+.bottom{
+    font-size: 12px;
+    margin-left:40px;
+    margin-top:-10px;
+    color:grey;
+}
+.div3{
+    width: 570px;
+    display: flex;
+    margin-top:20px;
+}
+.div3>.div1{
+    margin-left:300px;
+}
+.div3>div>p{
+    color: white;
+    margin-top:-25px;
+    margin-left:8px;
+}
+.content{
+    margin-top:-60px;
+}

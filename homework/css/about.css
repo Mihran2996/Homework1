@@ -1,0 +1,128 @@
+body{
+    background-image: url(../img/b_body.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+}
+.main{
+    width: 1158px;
+    height: 1004px;
+    margin-left:100px;
+    margin-bottom: 20px;
+    background-image: url("../img/b_coffee.jpg");
+    margin-top:-6px;
+}
+.contains{
+    width: 915px;
+    margin-left: 131px;
+}
+.btn{
+    margin-top:2px;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    margin-top:12px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.thumb>img{
+    position: absolute;
+}
+.divs{
+    display: flex;
+    margin-left:20px;
+    margin-top:20px;
+}
+.divImg{
+    position: relative;
+    margin-left:50px;
+    width: 500px;
+    height: 260px;
+    overflow: hidden;
+}
+.divImg>a{
+
+    color:green;
+}
+.ed{
+    margin-top:60px;
+    height: 300px;
+    display: flex;
+}
+.education{
+    width:250px;
+    overflow: hidden;
+}
+.education>a{
+    color:green;
+}
+.design{
+    width: 600px;
+    margin-left:80px;
+    overflow: hidden;
+
+}
+.design>div{
+    float: left;
+}
+.design>.div2{
+    margin-left:70px;
+}
+.design>.div1>a{
+    color:green;
+}
+.design>.div1{
+    overflow: hidden;
+}
+.design>.div1>.p{
+    margin-top:-20px;
+}
+.design>.div2>.p{
+    margin-top:-20px;
+}
+.design>.div2>a{
+    color:green;
+}
+.design>.div2{
+    overflow: hidden;
+}
+.content {
+    margin-left: -5px;
+}
+.data>.dt{
+    color:green;
+    margin-left:15px;
+}
+.text{
+    color:green;
+}
+.the{
+    width: 520px;
+}
+.the{
+    display: flex;
+    justify-content: space-around;
+    margin-left:30px;
+}
+.the>div{
+    color: blue;
+}
+.the>div>p{
+    margin-left: 15px;
+}
+.end{
+    width: 260px;
+    margin-left:50px;
+}
+.theEnd{
+    display: flex;
+    margin-top: -10px;
+}
+.bottom{
+    font-size: 12px;
+    margin-left:40px;
+    margin-top:-10px;
+    color:grey;
+}
